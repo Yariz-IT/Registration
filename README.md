@@ -1,25 +1,22 @@
-# registration
+# Registration
 
-## Project setup
+## Установка зависимостей 
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилирует и минимизирует для производства
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Файлы линтов и исправлений
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Registration
